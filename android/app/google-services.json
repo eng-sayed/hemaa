@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "724317158230",
+    "project_id": "food-delivery-appp",
+    "storage_bucket": "food-delivery-appp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724317158230:android:98c294c02f19ae8a4234f7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724317158230-rqkgi8f581nj3lasrh7ic8g76se1emup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfJO82hD4vxtU_U2hT2CHvk3Fe0Um4qmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724317158230-rqkgi8f581nj3lasrh7ic8g76se1emup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724317158230:android:eeb8d9c1d60f74384234f7",
+        "android_client_info": {
+          "package_name": "com.reeras.testhema"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724317158230-rqkgi8f581nj3lasrh7ic8g76se1emup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfJO82hD4vxtU_U2hT2CHvk3Fe0Um4qmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724317158230-rqkgi8f581nj3lasrh7ic8g76se1emup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
